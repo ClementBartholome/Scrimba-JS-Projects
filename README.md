@@ -20,3 +20,29 @@ Completed these projects from the Scrimba's Essential JavaScripts Concepts cours
 - CSS row-reverse
 - toggling classes
 - disabled attribute
+
+## 2- Meme Picker 
+
+### Link
+
+[Live Solution](https://scrimba-meme-picker-clement-bartholom.netlify.app/)
+
+### What I learned / practiced 
+
+- for... of loops
+- import/export
+- querySelector
+- classList.remove
+- .includes()
+- .filter()
+
+### Stretch Goals 
+
+I reached the following stretch goals provided by the instructor :
+
+- Click outside the modal to close the modal
+- Display more than one result
+
+### Future development 
+
+I plan to rework the UI/UX
