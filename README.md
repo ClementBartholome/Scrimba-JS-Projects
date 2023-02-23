@@ -46,3 +46,31 @@ I reached the following stretch goals provided by the instructor :
 ### Future development 
 
 I plan to rework the UI/UX
+
+## 3- Twimba / Twitter Clone
+
+### Link 
+
+[Live Solution](https://scrimba-twimba-clement-bartholome.netlify.app/)
+
+### What I learned / practiced 
+
+- .forEach()
+- data attributes
+- conditionnally render styles
+- NOT operator (!)
+- CDNs (add icons, generate UUIDs)
+
+### Stretch Goals 
+
+I reached the following stretch goals provided by the instructor : 
+
+- Save tweets, likes and retweets to localStorage
+- Allow a user to delete a tweet
+
+### Continued development 
+
+I plan to add the following features :
+
+- Allow a user to reply to a specific tweet
+- Dark mode
