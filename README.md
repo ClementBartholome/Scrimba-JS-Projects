@@ -72,5 +72,5 @@ I reached the following stretch goals provided by the instructor :
 
 I plan to add the following features :
 
-- Allow a user to reply to a specific tweet
-- Dark mode
+- Allow a user to reply to a specific tweet (DONE)
+- Dark mode (DONE)
