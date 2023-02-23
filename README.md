@@ -1,6 +1,6 @@
 # Overview 
 
-Completed these projects from the Scrimba's Essential JavaScripts Concepts course (module 5 of the [Frontend Developer Career Path](https://scrimba.com/learn/frontend)). I practiced HTML, CSS and JavaScript with these projects. You can see the visual representations of each one right below.
+Completed these projects from the Scrimba's Essential JavaScripts Concepts course (module 5 of the [Frontend Developer Career Path](https://scrimba.com/learn/frontend)). I practiced HTML, CSS and JavaScript with these projects. You can get to a live solution of each one right below.
 
 # Projects
 
