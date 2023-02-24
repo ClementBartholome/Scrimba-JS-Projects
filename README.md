@@ -43,7 +43,7 @@ I reached the following stretch goals provided by the instructor :
 - Click outside the modal to close the modal
 - Display more than one result
 
-### Future development 
+### Continued development
 
 I plan to rework the UI/UX
 
@@ -74,3 +74,33 @@ I plan to add the following features :
 
 - Allow a user to reply to a specific tweet (DONE)
 - Dark mode (DONE)
+
+## 4- Restaurant Ordering App (Solo Project) 
+
+### Link 
+
+[Live Solution](https://restaurant-app-clement-bartholome.netlify.app/)
+
+### Goals 
+
+- Create a Restaurant Ordering App from scratch following a Figma design 
+- Render the three menu options using JavaScript 
+- Be able to add/remove items
+- Have a payment modal with compulsory form inputs
+
+### What I learned / practice 
+
+- forEach() method
+- addEventListener() method
+- filter() method
+- DOM manipulation
+- import/export
+- uuid
+
+### Continued development 
+
+I plan to add the following features : 
+
+- Offer a "meal deal" discount
+- Allow users to rate their experience
+- New theme / UI 
