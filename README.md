@@ -99,8 +99,10 @@ I plan to add the following features :
 
 ### Continued development 
 
-I plan to add the following features : 
+I plan to work on the following features : 
 
 - Offer a "meal deal" discount
 - Allow users to rate their experience
-- New theme / UI 
+- New theme
+- Close button on the payment modal
+- Improve the UI and the responsive design 
