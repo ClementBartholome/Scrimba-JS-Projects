@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Scrimba Solo Project - Restaurant Ordering App</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Smythe&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/31585f4ad8.js" crossorigin="anonymous"></script>
+</head>
+    
+<body>
+    <header>
+        <h1>Jimmy's Dinner</h1>
+        <h2>The best burgers and pizzas in town.</h2>
+    </header>
+    <main>
+        <section class="menu" id="menu">
+        <!-- Menu Items here !!! -->
+        </section>
+        <section class="order hidden" id="order">
+            <h3 class="your-order">Your order</h3>
+            <div class="cart" id="cart">
+                <!-- Your Order here !!! -->
+            </div>
+            <hr class="cart-hr">
+            <div class="total-price">
+                <h3>Total Price:</h3>
+                <p class="price" id="total-price"></p>
+            </div>
+            <button id="order-btn" class="order-btn">Complete order</button>
+        </section>
+        <div class="modal hidden" id="modal">
+            <p>Enter card details</p>
+            <form method="POST" id="form">
+                <input type="text" name="card-name" placeholder="Enter your name" required>
+                <input type="tel" name="card-number" placeholder="Enter your card number" required>
+                <input type="tel" name="cvv" placeholder="Enter CVV" maxlength="4" required>
+                <button id="pay-btn" class="pay-btn">Pay</button>
+            </form>
+        </div>
+        <div class="order-confirmed hidden" id="order-confirmed">
+                    <!-- Order confirmed msg here !!! -->
+        </div>
+    </main>
+    
+    
+<script src="index.js" type="module"></script>
+</body>
+</html>
+
